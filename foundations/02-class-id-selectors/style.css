@@ -1,0 +1,20 @@
+/*style.css*/
+
+p.classy{
+    font-family:Verdana, DejaVu Sans, sans serif;
+}
+
+.boojie{
+    font-size: 24px;
+}
+
+#ID1{
+    color:#1e1ea3;
+    font-size: 36px;
+}
+
+#ID2{
+    background-color:#71e971;
+    font-size: 24px;
+    font-weight: bold;
+}
