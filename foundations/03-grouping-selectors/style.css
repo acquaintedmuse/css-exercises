@@ -1,0 +1,15 @@
+.buttonA,
+.buttonB{
+    font-size:28px;
+    font-family:Helvetica,'Times New Roman', sans-serif
+}
+
+
+.buttonA{
+    color:white;
+    background-color:black;
+}
+
+.buttonB{
+    background-color:yellow;
+}
